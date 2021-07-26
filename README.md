@@ -1,16 +1,10 @@
 ### Hi there 👋 I'm Davy
 
-I'm a Full Stack Developer from Blumenau, Brazil.
+I'm a Full Stack Junior Developer from Blumenau, Brazil.
 
 <a href="https://www.linkedin.com/in/davy-carvalho-18bb381b8/">
 
-<img
-
-alt="Linkedin"
-
-src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-
-/>
+<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
 </a>
 
