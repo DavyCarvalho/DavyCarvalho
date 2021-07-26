@@ -35,8 +35,8 @@ I'm a Full Stack Junior Developer from Blumenau, Brazil.
 
   
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davycarvalho)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavyCarvalho)
 
   
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@davycarvalho)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavyCarvalho)
