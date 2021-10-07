@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Davy
 
-I'm a Full Stack Junior Developer from Blumenau, Brazil.
+I'm a .NET Junior Developer from Blumenau, Brazil.
 
 <a href="https://www.linkedin.com/in/davy-carvalho-18bb381b8/">
 
@@ -10,7 +10,7 @@ I'm a Full Stack Junior Developer from Blumenau, Brazil.
 
 <p># 💻 About me !</p>
 
-<p>* 💻 I’m currently working with C# and React</p>
+<p>* 💻 I’m currently working with C#</p>
 
   
 
@@ -18,25 +18,10 @@ I'm a Full Stack Junior Developer from Blumenau, Brazil.
 
 <p>* 🚀 If i dont know , i will learn it</p>
 
-<p>* 🌱 I’m currently learning C#;</p>
-
-<p>* 📫 Contact-me: davycarvalho2017@hotmail.com</p>
-
-## ⚡ Technologies
-
-<p>These are some of the technologies and tools that I work with:</p>
-
-  
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=Plastic"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&style=Plastic"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=Plastic"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=Plastic"/> <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white&style=Plastic"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&style=Plastic"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white&style=Plastic"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&style=Plastic"/>
-  
+<p>* 📫 Contact-me: davycarvalho2017@hotmail.com</p>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=DavyCarvalho" />
 
-  
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavyCarvalho)
-
-  
 
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavyCarvalho)
