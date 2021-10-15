@@ -20,8 +20,4 @@ I'm a .NET Junior Developer from Blumenau, Brazil.
 
 <p>* 📫 Contact-me: davycarvalho2017@hotmail.com</p>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavyCarvalho" />
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavyCarvalho)
-
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavyCarvalho)
+<img src="https://github-readme-stats.vercel.app/api?username=DavyCarvalho" />![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavyCarvalho)
