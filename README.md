@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Davy
 
-I'm a .NET Junior Developer from Blumenau, Brazil.
+I'm a Junior Developer from Blumenau, Brazil.
 
 <a href="https://www.linkedin.com/in/davy-carvalho-18bb381b8/">
 
@@ -11,8 +11,6 @@ I'm a .NET Junior Developer from Blumenau, Brazil.
 <p># 💻 About me !</p>
 
 <p>* 💻 I’m currently working with C#</p>
-
-  
 
 <p>* 💬 I love Technology!</p>
 
