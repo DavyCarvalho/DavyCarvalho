@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Davy
 
-I'm a Junior Developer from Blumenau, Brazil.
+I'm a Backend Developer from Blumenau, Brazil.
 
 <a href="https://www.linkedin.com/in/davy-carvalho-18bb381b8/">
 
