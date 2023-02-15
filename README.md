@@ -10,7 +10,7 @@ I'm a Backend Developer from Blumenau, Brazil.
 
 <p># 💻 About me !</p>
 
-<p>* 💻 I’m currently working with C# with .Net Core and Sql Server</p>
+<p>* 💻 I’m currently working with C# with .Net and Sql Server</p>
 
 <p>* 💬 I love Technology!</p>
 
